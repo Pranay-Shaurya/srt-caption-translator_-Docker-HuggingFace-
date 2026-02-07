@@ -156,7 +156,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - [Hugging Face](https://huggingface.co/)
 - [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/)
