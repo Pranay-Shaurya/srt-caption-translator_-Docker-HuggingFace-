@@ -141,7 +141,7 @@ Je m'appelle Maria et je suis programmeuse.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 **Pranay Shaurya**  
 🎓 4rd-year B.Tech CSE student at VIT Bhopal  
