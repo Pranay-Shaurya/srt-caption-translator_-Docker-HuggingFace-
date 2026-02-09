@@ -146,7 +146,7 @@ Je m'appelle Maria et je suis programmeuse.
 **Pranay Shaurya**  
 🎓 4rd-year B.Tech CSE student at VIT Bhopal  
 💼 Passionate about AI/ML, DevOps, and building practical, scalable applications  
-🌐 [Visit DockerHub Profile](https://hub.docker.com/repositories/pranayshaurya)
+ [Visit DockerHub Profile](https://hub.docker.com/repositories/pranayshaurya)
 
 ---
 
