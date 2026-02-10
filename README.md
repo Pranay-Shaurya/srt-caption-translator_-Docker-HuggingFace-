@@ -1,4 +1,4 @@
-# 🎬 SRT Caption Translator – Dockerized ML Subtitle Translation 🚀
+# 🎬 SRT Caption Translator – Dockerized ML Subtitle Translation 
 
 A beginner-friendly, fully Dockerized **machine learning project** that translates video subtitles (`.srt` files) using the **Hugging Face Transformers** library. This project demonstrates the **complete development-to-deployment pipeline**—from local ML coding to containerization with Docker and publishing on **Docker Hub**.
 
