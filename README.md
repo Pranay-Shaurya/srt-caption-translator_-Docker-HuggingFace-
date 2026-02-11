@@ -6,7 +6,7 @@ A beginner-friendly, fully Dockerized **machine learning project** that translat
 
 ---
 
-## 🧠 Why This Project Matters
+## Why This Project Matters
 
 This project is **practical**, beginner-friendly, and solves a **real-world problem**: language accessibility in videos via automatic subtitle translation. It demonstrates:
 
