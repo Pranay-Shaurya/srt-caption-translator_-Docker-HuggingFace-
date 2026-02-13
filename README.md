@@ -130,7 +130,7 @@ Je m'appelle Maria et je suis programmeuse.
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Docker / Docker Compose**
 - **Hugging Face Transformers**
