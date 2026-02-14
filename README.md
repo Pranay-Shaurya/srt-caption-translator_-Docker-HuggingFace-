@@ -112,7 +112,7 @@ docker run -p 5000:8888 pranayshaurya/srt-translator:1.0
 
 ---
 
-## 📌 Example Input/Output
+## Example Input/Output
 
 **Input – captions_english.srt**  
 ```
