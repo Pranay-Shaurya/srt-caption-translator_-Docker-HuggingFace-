@@ -88,7 +88,7 @@ http://localhost:8000
 
 ---
 
-## 🌍 Deploy to DockerHub
+##  Deploy to DockerHub
 
 Already deployed at:  
  **[pranayshaurya on Docker Hub](https://hub.docker.com/repositories/pranayshaurya)**
