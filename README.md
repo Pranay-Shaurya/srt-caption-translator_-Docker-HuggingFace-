@@ -72,7 +72,7 @@ http://localhost:8000
 
 ---
 
-### 🎯 Translate Subtitles in Jupyter Notebook
+### Translate Subtitles in Jupyter Notebook
 
 1. Open `translator.ipynb`
 2. Load the `.srt` file using `pysrt`
