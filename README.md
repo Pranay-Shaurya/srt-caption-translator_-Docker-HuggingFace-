@@ -51,7 +51,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 
 ---
 
-### 📦 Run the App Locally
+### Run the App Locally
 
 ```bash
 # Clone this repo
