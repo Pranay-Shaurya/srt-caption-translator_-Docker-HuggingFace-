@@ -20,7 +20,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 - 📜 Translates `.srt` subtitle files (e.g., English → French)
 - 🐳 Built on `jupyter/tensorflow-notebook` base Docker image
