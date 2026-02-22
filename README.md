@@ -45,7 +45,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 
 ## 🛠️ Setup & Usage
 
-### 🔧 Prerequisites
+### Prerequisites
 - Docker Desktop installed
 - Basic familiarity with terminal commands
 
