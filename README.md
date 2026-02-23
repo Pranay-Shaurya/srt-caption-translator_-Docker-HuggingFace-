@@ -43,7 +43,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 
 ---
 
-## 🛠️ Setup & Usage
+## Setup & Usage
 
 ### Prerequisites
 - Docker Desktop installed
