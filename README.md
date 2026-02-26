@@ -31,7 +31,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── Dockerfile                 # Custom image setup
