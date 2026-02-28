@@ -27,7 +27,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 - 📦 Uses Hugging Face `transformers` + `pysrt`
 - 📁 Volume mounting to persist input/output files
 - 🔐 Custom Jupyter password authentication
-- 🌐 Deployed to [Docker Hub](https://hub.docker.com/repositories/pranayshaurya)
+-  Deployed to [Docker Hub](https://hub.docker.com/repositories/pranayshaurya)
 
 ---
 
