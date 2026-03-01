@@ -26,7 +26,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 - 🐳 Built on `jupyter/tensorflow-notebook` base Docker image
 - 📦 Uses Hugging Face `transformers` + `pysrt`
 - 📁 Volume mounting to persist input/output files
-- 🔐 Custom Jupyter password authentication
+-  Custom Jupyter password authentication
 -  Deployed to [Docker Hub](https://hub.docker.com/repositories/pranayshaurya)
 
 ---
