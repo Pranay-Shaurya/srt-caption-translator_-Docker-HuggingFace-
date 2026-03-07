@@ -23,7 +23,7 @@ Whether you're new to Docker or looking to deploy ML models in production enviro
 ##  Key Features
 
 - 📜 Translates `.srt` subtitle files (e.g., English → French)
-- 🐳 Built on `jupyter/tensorflow-notebook` base Docker image
+-  Built on `jupyter/tensorflow-notebook` base Docker image
 -  Uses Hugging Face `transformers` + `pysrt`
 -  Volume mounting to persist input/output files
 -  Custom Jupyter password authentication
