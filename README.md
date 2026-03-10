@@ -14,7 +14,7 @@ This project is **practical**, beginner-friendly, and solves a **real-world prob
 - ✅ Using Dockerfiles & Docker Compose
 - ✅ Integrating Hugging Face Transformers for ML
 - ✅ Mounting volumes for persistence
-- ✅ Pushing images to Docker Hub for global access
+-  Pushing images to Docker Hub for global access
 
 Whether you're new to Docker or looking to deploy ML models in production environments, this project gives you **hands-on experience** with the full stack of tools used in modern AI/ML workflows.
 
