@@ -12,7 +12,7 @@ This project is **practical**, beginner-friendly, and solves a **real-world prob
 
 - ✅ Building & customizing Docker containers
 - ✅ Using Dockerfiles & Docker Compose
-- ✅ Integrating Hugging Face Transformers for ML
+-  Integrating Hugging Face Transformers for ML
 -  Mounting volumes for persistence
 -  Pushing images to Docker Hub for global access
 
